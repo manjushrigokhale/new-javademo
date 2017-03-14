@@ -1,5 +1,0 @@
-projectKey=java_sonar1:feature
-serverUrl=http://172.27.59.254:9000
-dashboardUrl=http://172.27.59.254:9000/dashboard/index/java_sonar1:feature
-ceTaskId=AVqpEKAdX8X0B7nlG7r9
-ceTaskUrl=http://172.27.59.254:9000/api/ce/task?id=AVqpEKAdX8X0B7nlG7r9

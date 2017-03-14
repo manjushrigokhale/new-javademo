@@ -1,1 +1,0 @@
-java_sonar1 feature :	J1.2Rjava_sonar1
